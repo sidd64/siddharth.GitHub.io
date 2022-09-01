@@ -6,8 +6,11 @@ datascience. From the “Data Sets” list, select one data set that interests y
 the data set on your website. Make sure you include its URL. Also describe some
 potential applications for the data set.**
 > 
->URL: [r/datasets](https://www.reddit.com/r/datasets/)
->     [Dataset of job descriptions](https://drive.google.com/drive/folders/1XxNuhiei5taFR6gziofYAx0oWfGeV7y9)
+>URL: 
+>
+>[r/datasets](https://www.reddit.com/r/datasets/)
+>
+>[Dataset of job descriptions](https://drive.google.com/drive/folders/1XxNuhiei5taFR6gziofYAx0oWfGeV7y9)
 >
 >When going through the datasets list, r/datasets caught my eye. r/datasets(subreddit) is a community on Reddit. On the subreddit, users post everything and anything pertaining to datasets. 
 >Posts on the subreddit are categorized into datasets, mock datasets, API, code, survey, resource, discussions and requests. All of the posts are moderated on the community hence spam and repetitive posts are deleted. 
