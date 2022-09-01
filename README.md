@@ -1,4 +1,4 @@
-# siddharth.GitHub.io
+# siddharth.github.io
 ## Welcome to my GitHub website
 
 **Q3. Go to the awesome-datascience GitHub https://GitHub.com/bulutyazilim/awesome-
