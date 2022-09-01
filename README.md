@@ -6,19 +6,29 @@ datascience. From the “Data Sets” list, select one data set that interests y
 the data set on your website. Make sure you include its URL. Also describe some
 potential applications for the data set.**
 > 
->URL: [r/datasets](https://www.reddit.com/r/datasets/) 
+>URL: [r/datasets](https://www.reddit.com/r/datasets/)
+>     [Dataset of job descriptions](https://drive.google.com/drive/folders/1XxNuhiei5taFR6gziofYAx0oWfGeV7y9)
 >
 >When going through the datasets list, r/datasets caught my eye. r/datasets(subreddit) is a community on Reddit. On the subreddit, users post everything and anything pertaining to datasets. 
 >Posts on the subreddit are categorized into datasets, mock datasets, API, code, survey, resource, discussions and requests. All of the posts are moderated on the community hence spam and repetitive posts are deleted. 
->However, in order to post on the subreddit, users must: 
->1.	link to the original source, 
->2.	label all artificial datasets (i.e., a mock dataset which is not produced by actual measurements)
->3.	and finally all paid datasets must also be labelled as paid
 >
 >r/datasets is a healthy community of active users, who post, comment and discuss. We can find posts on datasets and analysis performed by the poster, users on the community can comment on the post to elaborate on the analysis or verify the authenticity of the datasets. 
+>
 >This community is categorized, moderated, and it is open and free for everybody to use and take part in. Such a community of easily accessible and verified data is extremely useful for beginners and professional data analysts alike.
 >
->Some of the application of datasets and analysis talked about on the subreddit are: 
+>One dataset that I found interesting was Dataset of Job Descriptions. This dataset contains more than 100,000 job decsriptions from various job sites. This dataset contains job title data, company, location, link to the post, job description and skill level required, for each profession. 
+>
+>link to the dataset: [Dataset of job descriptions](https://drive.google.com/drive/folders/1XxNuhiei5taFR6gziofYAx0oWfGeV7y9)
+>
+>Applications of the dataset: 
+>
+>>   This dataset can be used to build a classification model that can categorize the job titles based on the job description. 
+>
+>>   Based on the skill level specified for each of the job descriptions, this dataset can be used to build a model to establish the minimum skill level required by      an applicant.
+>
+>>   Based on the location data and the skill level required, this dataset can be used to determine the demand for different kinds of jobs where it would be easier      for an applicant to apply for the job.
+>
+>Some of the other posts on the subreddit are : 
 >
 >•	a Tinder experiment about the priority of the profiles displayed. The user posted their experiment procedure, trial runs and a link to the YouTube video explaining how the video was run. And in the comment section other users discussed test strategy and experiment hypothesis. There were discussions about methods of collection of likes and dislikes data, and location data.
 >	 
